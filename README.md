@@ -1,4 +1,4 @@
-[deployed here](https://fender-guy.github.io/microblog/)
+[deployed here](https://jeanette-codes.github.io/microblog/)
 
 # Microblog
 
